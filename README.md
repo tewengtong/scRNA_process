@@ -13,4 +13,4 @@ nohup bash cellranger_count.sh &
 
 ## Annotation
 
-Here, we recommend you to annotate the cell cluster manually, and this R script includes how to process data coming from cellranger and get the files for annotation.
+Here, we recommend you to annotate the cell cluster manually, and Seurat.R includes how to process data coming from cellranger and get the files for annotation.
